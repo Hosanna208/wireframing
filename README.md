@@ -37,3 +37,11 @@ Effective content placement ensures users see key information quickly and encour
 Including a search box in the top-right corner or a “Sign Up” form on the homepage.
 **Contribution**
 Functionality enhances usability and allows users to interact meaningfully with the site, achieving their goals efficiently.
+
+## Types of Wireframes
+- **Low-Fidelity Wireframes:** Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design. They’re quick to create, inexpensive, and ideal at the very beginning of the design process for brainstorming, exploring alternatives and gathering early feedback.
+- **High-Fidelity Wireframes:** More detailed and refined versions, often closer to the final design, including more specific layout and design elements. They’re used later in the process when you’re refining design details, validating UI/UX, and handing off to development.
+
+## Framework in the attached Link
+Link to the wireframe: (https://savanna.alxafrica.com/rltoken/HnTbrzrJX1IfPIxugo8Uvw)
+Based on what’s visible: because the design appears to be a straightforward login page without heavy visual styling (plain fields for email/password, minimal branding), it suggests a low-fidelity wireframe. Its focus is on structure and functionality (input fields, button, links) rather than detailed visual design or branding polish.
