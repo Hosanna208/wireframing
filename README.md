@@ -45,3 +45,17 @@ Functionality enhances usability and allows users to interact meaningfully with 
 ## Framework in the attached Link
 Link to the wireframe: (https://savanna.alxafrica.com/rltoken/HnTbrzrJX1IfPIxugo8Uvw)
 Based on what’s visible: because the design appears to be a straightforward login page without heavy visual styling (plain fields for email/password, minimal branding), it suggests a low-fidelity wireframe. Its focus is on structure and functionality (input fields, button, links) rather than detailed visual design or branding polish.
+
+## Popular Wireframing Tools
+- **Figma**
+- **Adobe XD**
+- **Sketch**
+- **Balsamiq**
+- **InVision**
+## Figma (Recommended Tool) 
+Figma is a cloud-based design and prototyping tool widely used for creating wireframes, mockups, and interactive prototypes. It allows multiple users to collaborate in real time, making it ideal for team projects. Figma provides vector-based design capabilities, reusable design components, and easy sharing through web links. Its built-in commenting and version history features make feedback and iteration seamless.
+## Why It’s Useful for Wireframing:
+- Enables quick creation of both low- and high-fidelity wireframes.
+- Supports real-time collaboration among designers, developers, and stakeholders.
+- Accessible from any device with an internet connection.
+- Offers plugins and templates that speed up the design process.
